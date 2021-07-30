@@ -12,25 +12,21 @@ background-color: #ECECEC !important;
     color: #3b6f9a;
 }
 .box {
-    background-color: #fafafa;
+    background-color: #f9f8f8;
 }
-.title1  {
-    text-decoration: underline;
-    text-decoration-color: #ffaf00;
-}
-.title2 {
-    text-decoration: underline;
-    text-decoration-color: #ffaf00;
-  }
 
 .imgbox {
     background-color: #ffffff;
 }
-.imgboxtxt{
-    color: #3b6f9a;
+.img-thumbnail{
+    border-radius: 15px;
+}
+.textbox{
+    color: #264c6e;
+    font-weight: bold;
 }
 .price{
-    color: #3b6f9a;
+    color: #2d4768;
 }
 .btn{ 
     background-color: #ffaf00;
@@ -39,4 +35,16 @@ background-color: #ECECEC !important;
 }
 .fas{
     color: #ffaf00;
+    text-shadow: 0px 0px 2px #ffaf00, 0px 0px 2px #ffaf00;
+    color: white;  
+}
+
+.line { 
+
+    border-top:1px solid #ffaf00;
+    ;
+    background-size:10px 100%;
+    margin-left: 45%;
+    margin-right: 45%;
+    background-repeat:no-repeat;
 }
